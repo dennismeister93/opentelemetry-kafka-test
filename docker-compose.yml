@@ -1,5 +1,3 @@
-# based on hermes example: https://github.boschdevcloud.com/MC/hermes-pubsub-examples/blob/master/docker-compose.yaml
-
 # starts a Kafka stack existing of:
 # - zookeeper on port 2181
 # - a single kafka broker on port 29092
